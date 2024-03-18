@@ -38,7 +38,8 @@ class DashboardPage extends StatelessWidget {
               },
               items: const [
                 BottomNavigationBarItem(label: 'Users', icon: Icon(Icons.home)),
-                BottomNavigationBarItem(label: 'Posts', icon: Icon(Icons.home))
+                BottomNavigationBarItem(
+                    label: 'Posts', icon: Icon(Icons.card_travel))
               ],
             ));
       },
