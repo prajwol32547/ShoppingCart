@@ -1,0 +1,62 @@
+[
+  {
+    "productName": "Everest Hiking Boots",
+    "description": "Durable and comfortable hiking boots perfect for exploring the Himalayas.",
+    "imagePath": "images/boots.jpg",
+    "price": 129.99
+  },
+  {
+    "productName": "Pashmina Scarf",
+    "description": "Luxuriously soft and warm pashmina scarf, handcrafted in Nepal.",
+    "imagePath": "images/scarf.jpg",
+    "price": 79.99
+  },
+  {
+    "productName": "Khukuri Knife",
+    "description": "Traditional Nepalese kukuri knife, a versatile tool for everyday use.",
+    "imagePath": "images/kukuri.jpg",
+    "price": 49.99
+  },
+  {
+    "productName": "Singing Bowl",
+    "description": "Hand-crafted singing bowl used for meditation and relaxation.",
+    "imagePath": "images/bowl.jpg",
+    "price": 34.99
+  },
+  {
+    "productName": "Momos",
+    "description": "Delicious steamed dumplings filled with vegetables or meat, a popular Nepalese dish.",
+    "imagePath": "images/momos.jpg",
+    "price": 5.99
+  },
+  {
+    "productName": "Singing Bowl",
+    "description": "Hand-crafted singing bowl used for meditation and relaxation.",
+    "imagePath": "images/bowl.jpg",
+    "price": 34.99
+  },
+  {
+    "productName": "Singing Bowl",
+    "description": "Hand-crafted singing bowl used for meditation and relaxation.",
+    "imagePath": "images/bowl.jpg",
+    "price": 34.99
+  },
+  {
+    "productName": "Singing Bowl",
+    "description": "Hand-crafted singing bowl used for meditation and relaxation.",
+    "imagePath": "images/bowl.jpg",
+    "price": 34.99
+  },
+  {
+    "productName": "Pashmina Scarf",
+    "description": "Luxuriously soft and warm pashmina scarf, handcrafted in Nepal.",
+    "imagePath": "images/scarf.jpg",
+    "price": 79.99
+  },
+  {
+    "productName": "Pashmina Scarf",
+    "description": "Luxuriously soft and warm pashmina scarf, handcrafted in Nepal.",
+    "imagePath": "images/scarf.jpg",
+    "price": 79.99
+  }
+]
