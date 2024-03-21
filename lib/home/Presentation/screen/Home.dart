@@ -5,7 +5,7 @@ import 'package:practiceflutter/home/Bloc/home_bloc.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:practiceflutter/home/Bloc/home_event.dart';
 import 'package:practiceflutter/home/Bloc/home_state.dart';
-import 'package:practiceflutter/home/UI/widget/ShoppingCard.dart';
+import 'package:practiceflutter/home/Presentation/widget/ShoppingCard.dart';
 
 @RoutePage()
 class Home extends StatefulWidget {

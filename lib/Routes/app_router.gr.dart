@@ -10,11 +10,11 @@
 // ignore_for_file: no_leading_underscores_for_library_prefixes
 import 'package:auto_route/auto_route.dart' as _i9;
 import 'package:flutter/material.dart' as _i10;
-import 'package:practiceflutter/cart/UI/Screen/Cart.dart' as _i1;
-import 'package:practiceflutter/cart/UI/Screen/CheckoutScreen.dart' as _i2;
-import 'package:practiceflutter/home/UI/screen/Home.dart' as _i4;
-import 'package:practiceflutter/home/UI/screen/Home_tab.dart' as _i6;
-import 'package:practiceflutter/home/UI/screen/HomeProductView.dart' as _i5;
+import 'package:practiceflutter/cart/Presentation/Screen/Cart.dart' as _i1;
+import 'package:practiceflutter/cart/Presentation/Screen/CheckoutScreen.dart' as _i2;
+import 'package:practiceflutter/home/Presentation/screen/Home.dart' as _i4;
+import 'package:practiceflutter/home/Presentation/screen/Home_tab.dart' as _i6;
+import 'package:practiceflutter/home/Presentation/screen/HomeProductView.dart' as _i5;
 import 'package:practiceflutter/Routes/BottomNavigation.dart' as _i3;
 import 'package:practiceflutter/Screen/LoginRoute.dart' as _i7;
 import 'package:practiceflutter/Screen/Profile.dart' as _i8;

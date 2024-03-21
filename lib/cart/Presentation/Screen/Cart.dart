@@ -7,7 +7,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:practiceflutter/cart/Bloc/cart_bloc.dart';
 import 'package:practiceflutter/cart/Bloc/cart_event.dart';
 import 'package:practiceflutter/cart/Bloc/cart_state.dart';
-import 'package:practiceflutter/cart/UI/Widget/CartTile.dart';
+import 'package:practiceflutter/cart/Presentation/Widget/CartTile.dart';
 
 @RoutePage()
 class Cart extends StatefulWidget {
